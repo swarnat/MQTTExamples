@@ -1,0 +1,10 @@
+{
+  "name": "mqttworkshop",
+  "version": "1.0.0",
+  "description": "Scripts for MQTT Workshop of WebDev Meetup",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  },
+  "author": "Stefan Warnat",
+  "license": "MIT"
+}
